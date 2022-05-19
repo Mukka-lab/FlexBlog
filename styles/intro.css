@@ -5,12 +5,14 @@
     max-width: 960px;
     margin: 0 auto;
     padding: 60px 20px;
+    color: #A67661;
 }
 
 
 .about{
     border-top: 2px solid #A67661;
     border-bottom: 2px solid #A67661;
+    color: #A67661;
     max-width: 960px;
     margin: 0 auto;
     padding: 50px 0;
@@ -20,7 +22,7 @@
 
 .about-info{
     flex: 2 1 300px;
-    margin: 0 10px;
+    margin: 40px 10px;
 }
 
 .about-info h1{
